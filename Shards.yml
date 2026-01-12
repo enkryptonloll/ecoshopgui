@@ -1,8 +1,8 @@
 slot: 16
-title: "&8ѕʜᴏᴘ - ѕʜᴀʀᴅ ѕʜᴏᴘ"
+title: "&8ѕʜᴏᴘ - Sᴘᴀᴡɴᴇʀ Sʜᴏᴘ"
 item:
   material: amethyst_shard
-  name: "#ff00ffѕʜᴀʀᴅ ѕʜᴏᴘ"
+  name: "#ff00ffSᴘᴀᴡɴᴇʀ Sʜᴏᴘ"
   lore:
-    - "&fClick to view the shard shop"
+    - "&fClick to view the spawner shop"
 economy: PLAYER_POINTS
