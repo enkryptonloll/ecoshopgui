@@ -1,0 +1,7 @@
+slot: 15
+title: "&8ѕʜᴏᴘ - ꜰᴏᴏᴅ"
+item:
+  material: cooked_beef
+  name: "#00ff00ꜰᴏᴏᴅ"
+  lore:
+    - "&fClick to view the food shop"

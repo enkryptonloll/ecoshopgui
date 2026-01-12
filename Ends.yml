@@ -1,0 +1,7 @@
+slot: 12
+title: "&8ѕʜᴏᴘ - ᴇɴᴅ"
+item:
+  material: END_STONE
+  name: "#00ff00ᴇɴᴅ"
+  lore:
+    - "&fClick to view the end shop"

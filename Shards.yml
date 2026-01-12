@@ -1,0 +1,8 @@
+slot: 16
+title: "&8ѕʜᴏᴘ - ѕʜᴀʀᴅ ѕʜᴏᴘ"
+item:
+  material: amethyst_shard
+  name: "#ff00ffѕʜᴀʀᴅ ѕʜᴏᴘ"
+  lore:
+    - "&fClick to view the shard shop"
+economy: PLAYER_POINTS
